@@ -85,3 +85,4 @@ Es mejor definir interfaces específicas para las operaciones que realiza cada s
 Inyecta las dependencias mediante el uso de constructores o un contenedor de inyección de dependencias, para que puedas intercambiar las implementaciones de `DatabaseService` o `PersonRepository` fácilmente.
 
 # crud-flutter
+# project-netflix-clon-v2
